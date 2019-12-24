@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+echo $BASH_VERSION
 set -e
 
 echo 'Boostrapping your computer...'
